@@ -1,4 +1,4 @@
-A script to convert MAC address lists to an Aruba CleaPass readible XML file
+A script to convert MAC address lists to an Aruba ClearPass readable XML file
 
 mac2xml.py
 
