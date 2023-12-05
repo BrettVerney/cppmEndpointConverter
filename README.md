@@ -25,11 +25,9 @@ Run the script with the `-g` option followed by the group name.
 
 ```python mac2xml.py -g "Group Name"```
 
-
 ### Without Command Line Argument
 
 If the script is run without any arguments, it will prompt the user to enter the ClearPass Group Name. The name should be 32 characters or less.
-
 
 ## Usage
 

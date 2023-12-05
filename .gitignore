@@ -1,0 +1,13 @@
+# Ignore XML files
+*.xml
+
+# Ignore text files
+*.txt
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore other unnecessary files
+.DS_Store
+Thumbs.db
