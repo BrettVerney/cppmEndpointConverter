@@ -1,4 +1,4 @@
-A script to convert MAC address lists to an Aruba ClearPass readable XML file
+![image](https://github.com/BrettVerney/cppmEndpointConverter/assets/44787975/448536c9-e5ec-488b-b148-92cb5b5b7ae6)A script to convert MAC address lists to an Aruba ClearPass readable XML file
 
 mac2xml.py
 
@@ -19,6 +19,8 @@ At this point in time, I only require the "Group Name" attribute to assign to en
 
 ## Usage
 
+The directory must contain a file called '**maclist.txt**', which contains a list of MAC addresses; one per line. The MAC addresses can be listed in any format, e.g. aabbccddeeff, aa:bb:cc:dd:ee:ff, aa-bb-cc-dd-ee-ff.
+
 ### With Command Line Argument
 
 Run the script with the `-g` option followed by the group name.
@@ -28,16 +30,6 @@ Run the script with the `-g` option followed by the group name.
 ### Without Command Line Argument
 
 If the script is run without any arguments, it will prompt the user to enter the ClearPass Group Name. The name should be 32 characters or less.
-
-## Usage
-
-### Running with Command Line Argument
-
-```python mac2xml.py -g "group-name"```
-
-### Running without Command Line Argument
-
-The script will prompt for the Group Name.
 
 ## Example
 
