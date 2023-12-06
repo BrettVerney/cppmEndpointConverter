@@ -2,7 +2,7 @@ A script to convert MAC address lists to an Aruba ClearPass readable XML file
 
 mac2xml.py
 
-Author: Brett Verney
+Author: Brett Verney<br>
 Version: v0.1 | 5-12-2023
 
 # ClearPass Endpoint Converter
