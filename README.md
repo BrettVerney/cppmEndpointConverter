@@ -1,4 +1,4 @@
-![image](https://github.com/BrettVerney/cppmEndpointConverter/assets/44787975/448536c9-e5ec-488b-b148-92cb5b5b7ae6)A script to convert MAC address lists to an Aruba ClearPass readable XML file
+A script to convert MAC address lists to an Aruba ClearPass readable XML file
 
 mac2xml.py
 
